@@ -1,0 +1,21 @@
+{
+  "name": "custom-banner",
+  "version": "1.0.0",
+  "author": "Timothe L <https://github.com/Oniriik>",
+  "contributors": [],
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "cron": "^1.8.2",
+    "dotenv": "^16.0.0",
+    "jimp": "^0.16.1",
+    "sharp": "^0.30.2",
+    "twitter-api-v2": "^1.11.0"
+  }
+}
